@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello
+
+I am a senior at St. Lawrence Univeristy in Canton, NY. 
+
+I am a mathematics and biology double major.
 
 <!--
 **orvarr20/orvarr20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
